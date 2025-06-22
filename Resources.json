@@ -1,0 +1,684 @@
+
+
+
+[
+  {
+    "title": "CS50's Introduction to Computer Science",
+    "type": "Video Course",
+    "platform": "Harvard University",
+    "category": "Computer Science",
+    "link": "https://cs50.harvard.edu/x/2024/",
+    "image": "https://cs50.harvard.edu/x/2024/static/cs50.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Full Stack Web Development for Beginners",
+    "type": "Video Course",
+    "platform": "freeCodeCamp",
+    "category": "Web Development",
+    "link": "https://www.youtube.com/watch?v=nu_pCVPKzTk",
+    "image": "https://i.ytimg.com/vi/nu_pCVPKzTk/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Responsive Web Design Certification",
+    "type": "Interactive Course",
+    "platform": "freeCodeCamp",
+    "category": "Web Development",
+    "link": "https://www.freecodecamp.org/learn/responsive-web-design/",
+    "image": "https://www.freecodecamp.org/news/content/images/2021/05/responsive-web-design.png",
+    "isFree": true
+  },
+  {
+    "title": "Programming with Mosh - JavaScript Tutorial",
+    "type": "Video Course",
+    "platform": "YouTube",
+    "category": "Web Development",
+    "link": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+    "image": "https://i.ytimg.com/vi/W6NZfCO5SIk/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Traversy Media - Python Crash Course",
+    "type": "Video Course",
+    "platform": "YouTube",
+    "category": "Programming",
+    "link": "https://www.youtube.com/watch?v=JJmcL1N2KQs",
+    "image": "https://i.ytimg.com/vi/JJmcL1N2KQs/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Bro Code - Java Full Course",
+    "type": "Video Course",
+    "platform": "YouTube",
+    "category": "Programming",
+    "link": "https://www.youtube.com/watch?v=xk4_1vDrzzo",
+    "image": "https://i.ytimg.com/vi/xk4_1vDrzzo/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "David Bombal - Network Fundamentals",
+    "type": "Video Course",
+    "platform": "YouTube",
+    "category": "Networking",
+    "link": "https://www.youtube.com/watch?v=qiQR5rTSshw",
+    "image": "https://i.ytimg.com/vi/qiQR5rTSshw/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "NetworkChuck - Ethical Hacking for Beginners",
+    "type": "Video Course",
+    "platform": "YouTube",
+    "category": "Cybersecurity",
+    "link": "https://www.youtube.com/watch?v=3Kq1MIfTWCE",
+    "image": "https://i.ytimg.com/vi/3Kq1MIfTWCE/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Cisco Networking Academy",
+    "type": "Interactive Course",
+    "platform": "Cisco",
+    "category": "Networking",
+    "link": "https://www.netacad.com/courses/packet-tracer",
+    "image": "https://www.netacad.com/sites/default/files/styles/large/public/2020-06/PacketTracer.jpg",
+    "isFree": true
+  },
+  {
+    "title": "EC-Council Certified Ethical Hacker (CEH)",
+    "type": "Certification",
+    "platform": "EC-Council",
+    "category": "Cybersecurity",
+    "link": "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/",
+    "image": "https://www.eccouncil.org/wp-content/uploads/2021/05/CEH.jpg",
+    "isFree": false
+  },
+  {
+    "title": "AI For Everyone by Andrew Ng",
+    "type": "Video Course",
+    "platform": "Coursera",
+    "category": "AI/ML",
+    "link": "https://www.coursera.org/learn/ai-for-everyone",
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~AI-for-Everyone/XDP~AI-for-Everyone.jpeg",
+    "isFree": true
+  },
+  {
+    "title": "Meta Tech Podcast",
+    "type": "Podcast",
+    "platform": "Spotify",
+    "category": "Technology",
+    "link": "https://open.spotify.com/show/1NlTm7OkZmcrOPfvlqlBMz",
+    "image": "https://i.scdn.co/image/ab6765630000ba8a3f3f3f3f3f3f3f3f3f3f3f3f",
+    "isFree": true
+  },
+  {
+    "title": "freeCodeCamp Podcast",
+    "type": "Podcast",
+    "platform": "freeCodeCamp",
+    "category": "Technology",
+    "link": "https://freecodecamp.libsyn.com/site/",
+    "image": "https://freecodecamp.libsyn.com/sites/default/files/fcc_podcast_logo.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Syntax - Tasty Web Development Treats",
+    "type": "Podcast",
+    "platform": "Syntax",
+    "category": "Web Development",
+    "link": "https://syntax.fm/",
+    "image": "https://syntax.fm/static/logo.png",
+    "isFree": true
+  }, 
+
+  {
+    "title": "HTML Full Course - Build a Website Tutorial",
+    "type": "Video Course",
+    "platform": "freeCodeCamp",
+    "category": "HTML",
+    "link": "https://www.youtube.com/watch?v=pQN-pnXPaVg",
+    "image": "https://i.ytimg.com/vi/pQN-pnXPaVg/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "CSS Crash Course For Absolute Beginners",
+    "type": "Video Course",
+    "platform": "Traversy Media",
+    "category": "CSS",
+    "link": "https://www.youtube.com/watch?v=yfoY53QXEnI",
+    "image": "https://i.ytimg.com/vi/yfoY53QXEnI/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "JavaScript Tutorial for Beginners",
+    "type": "Video Course",
+    "platform": "Programming with Mosh",
+    "category": "JavaScript",
+    "link": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+    "image": "https://i.ytimg.com/vi/W6NZfCO5SIk/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "React JS Crash Course",
+    "type": "Video Course",
+    "platform": "Traversy Media",
+    "category": "React",
+    "link": "https://www.youtube.com/watch?v=sBws8MSXN7A",
+    "image": "https://i.ytimg.com/vi/sBws8MSXN7A/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "React Native Tutorial for Beginners",
+    "type": "Video Course",
+    "platform": "freeCodeCamp",
+    "category": "React Native",
+    "link": "https://www.youtube.com/watch?v=0-S5a0eXPoc",
+    "image": "https://i.ytimg.com/vi/0-S5a0eXPoc/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Flutter Crash Course for Beginners",
+    "type": "Video Course",
+    "platform": "Academind",
+    "category": "Flutter",
+    "link": "https://www.youtube.com/watch?v=x0uinJvhNxI",
+    "image": "https://i.ytimg.com/vi/x0uinJvhNxI/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Python for Beginners - Full Course",
+    "type": "Video Course",
+    "platform": "freeCodeCamp",
+    "category": "Python",
+    "link": "https://www.youtube.com/watch?v=rfscVS0vtbw",
+    "image": "https://i.ytimg.com/vi/rfscVS0vtbw/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Java Tutorial for Beginners",
+    "type": "Video Course",
+    "platform": "Bro Code",
+    "category": "Java",
+    "link": "https://www.youtube.com/watch?v=xk4_1vDrzzo",
+    "image": "https://i.ytimg.com/vi/xk4_1vDrzzo/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "freeCodeCamp Podcast",
+    "type": "Podcast",
+    "platform": "freeCodeCamp",
+    "category": "Technology",
+    "link": "https://freecodecamp.libsyn.com/",
+    "image": "https://freecodecamp.org/news/content/images/2021/05/freecodecamp-podcast.png",
+    "isFree": true
+  },
+  {
+    "title": "Syntax - Tasty Web Development Treats",
+    "type": "Podcast",
+    "platform": "Syntax",
+    "category": "Web Development",
+    "link": "https://syntax.fm/",
+    "image": "https://syntax.fm/static/logo.png",
+    "isFree": true
+  }, 
+  {
+    "title": "The Pragmatic Engineer",
+    "type": "Blog",
+    "author": "Gergely Orosz",
+    "category": "Software Engineering",
+    "link": "https://blog.pragmaticengineer.com/",
+    "image": "https://blog.pragmaticengineer.com/content/images/2021/11/pragmatic-engineer.png",
+    "isFree": true
+  },
+  {
+    "title": "Coding Horror",
+    "type": "Blog",
+    "author": "Jeff Atwood",
+    "category": "Software Development",
+    "link": "https://blog.codinghorror.com/",
+    "image": "https://blog.codinghorror.com/content/images/2014/11/coding-horror.png",
+    "isFree": true
+  },
+  {
+    "title": "Martin Fowler's Blog",
+    "type": "Blog",
+    "author": "Martin Fowler",
+    "category": "Software Architecture",
+    "link": "https://martinfowler.com/",
+    "image": "https://martinfowler.com/mf-logo.png",
+    "isFree": true
+  },
+  {
+    "title": "Google Developers Blog",
+    "type": "Blog",
+    "author": "Google",
+    "category": "Software Development",
+    "link": "https://developers.googleblog.com/",
+    "image": "https://developers.google.com/site-assets/images/home/developers-social.png",
+    "isFree": true
+  },
+  {
+    "title": "Netflix Tech Blog",
+    "type": "Blog",
+    "author": "Netflix",
+    "category": "Technology",
+    "link": "https://netflixtechblog.com/",
+    "image": "https://miro.medium.com/max/1200/1*8fJY4gYB0XK1gV8G7Z7eWQ.png",
+    "isFree": true
+  },
+  {
+    "title": "Facebook Engineering",
+    "type": "Blog",
+    "author": "Facebook",
+    "category": "Engineering",
+    "link": "https://engineering.fb.com/",
+    "image": "https://engineering.fb.com/wp-content/uploads/2019/08/og_image.png",
+    "isFree": true
+  },
+  {
+    "title": "Spotify Engineering",
+    "type": "Blog",
+    "author": "Spotify",
+    "category": "Engineering",
+    "link": "https://engineering.atspotify.com/",
+    "image": "https://engineering.atspotify.com/wp-content/uploads/2021/04/spotify-engineering-logo.png",
+    "isFree": true
+  },
+  {
+    "title": "Uber Engineering Blog",
+    "type": "Blog",
+    "author": "Uber",
+    "category": "Engineering",
+    "link": "https://eng.uber.com/",
+    "image": "https://eng.uber.com/wp-content/uploads/2019/03/uber-engineering-logo.png",
+    "isFree": true
+  },
+  {
+    "title": "MIT Technology Review",
+    "type": "Magazine",
+    "author": "MIT",
+    "category": "Technology",
+    "link": "https://www.technologyreview.com/",
+    "image": "https://www.technologyreview.com/wp-content/uploads/2021/04/mit-technology-review-logo.png",
+    "isFree": false
+  },
+  {
+    "title": "Ars Technica",
+    "type": "News Site",
+    "author": "Condé Nast",
+    "category": "Technology News",
+    "link": "https://arstechnica.com/",
+    "image": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/ars-logo.png",
+    "isFree": true
+  }, 
+  
+  {
+    "title": "Learn Git – Full Course for Beginners",
+    "type": "Video Course",
+    "platform": "freeCodeCamp.org",
+    "category": "Version Control",
+    "link": "https://www.youtube.com/watch?v=zTjRZNkhiEU",
+    "image": "https://i.ytimg.com/vi/zTjRZNkhiEU/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Git and GitHub for Beginners - Crash Course",
+    "type": "Video Course",
+    "platform": "freeCodeCamp.org",
+    "category": "Version Control",
+    "link": "https://www.youtube.com/watch?v=RGOj5yH7evk",
+    "image": "https://i.ytimg.com/vi/RGOj5yH7evk/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "APIs for Beginners - How to use an API (Full Course / Tutorial)",
+    "type": "Video Course",
+    "platform": "freeCodeCamp.org",
+    "category": "APIs",
+    "link": "https://www.youtube.com/watch?v=WXsD0ZgxjRw",
+    "image": "https://i.ytimg.com/vi/WXsD0ZgxjRw/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Python for Beginners – Full Course [Programming Tutorial]",
+    "type": "Video Course",
+    "platform": "Programming with Mosh",
+    "category": "Python",
+    "link": "https://www.youtube.com/watch?v=eWRfhZUzrAc",
+    "image": "https://i.ytimg.com/vi/eWRfhZUzrAc/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Java Full Course for free",
+    "type": "Video Course",
+    "platform": "Bro Code",
+    "category": "Java",
+    "link": "https://www.youtube.com/watch?v=xk4_1vDrzzo",
+    "image": "https://i.ytimg.com/vi/xk4_1vDrzzo/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "C++ Programming Course - Beginner to Advanced",
+    "type": "Video Course",
+    "platform": "freeCodeCamp.org",
+    "category": "C++",
+    "link": "https://www.youtube.com/watch?v=8jLOx1hD3_o",
+    "image": "https://i.ytimg.com/vi/8jLOx1hD3_o/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Full PHP Tutorial For Beginners & Advanced",
+    "type": "Video Course",
+    "platform": "The Codeholic",
+    "category": "PHP",
+    "link": "https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-",
+    "image": "https://i.ytimg.com/vi/OK_JCtrrv-c/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Ruby Programming Language - Full Course",
+    "type": "Video Course",
+    "platform": "freeCodeCamp.org",
+    "category": "Ruby",
+    "link": "https://www.youtube.com/watch?v=t_ispmWmdjY",
+    "image": "https://i.ytimg.com/vi/t_ispmWmdjY/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Swift Programming Tutorial – Full Course for Beginners",
+    "type": "Video Course",
+    "platform": "freeCodeCamp.org",
+    "category": "Swift",
+    "link": "https://www.youtube.com/watch?v=8Xg7E9shq0U",
+    "image": "https://i.ytimg.com/vi/8Xg7E9shq0U/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Learn Kotlin Programming – Full Course for Beginners",
+    "type": "Video Course",
+    "platform": "freeCodeCamp.org",
+    "category": "Kotlin",
+    "link": "https://www.youtube.com/watch?v=EExSSotojVI",
+    "image": "https://i.ytimg.com/vi/EExSSotojVI/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Rust Tutorial Full Course",
+    "type": "Video Course",
+    "platform": "freeCodeCamp.org",
+    "category": "Rust",
+    "link": "https://www.youtube.com/watch?v=ygL_xcavzQ4",
+    "image": "https://i.ytimg.com/vi/ygL_xcavzQ4/maxresdefault.jpg",
+    "isFree": true
+  }, 
+  
+  {
+    "title": "HTML & CSS Full Course - Beginner to Pro",
+    "type": "Video Course",
+    "platform": "SuperSimpleDev",
+    "category": "Web Development",
+    "level": "Beginner",
+    "link": "https://www.youtube.com/watch?v=G3e-cpL7ofc",
+    "image": "https://i.ytimg.com/vi/G3e-cpL7ofc/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Web Development with HTML & CSS – Full Course for Beginners",
+    "type": "Video Course",
+    "platform": "freeCodeCamp.org",
+    "category": "Web Development",
+    "level": "Beginner",
+    "link": "https://www.youtube.com/watch?v=dX8396ZmSPk",
+    "image": "https://i.ytimg.com/vi/dX8396ZmSPk/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Learn HTML & CSS – Full Course for Beginners",
+    "type": "Video Course",
+    "platform": "freeCodeCamp.org",
+    "category": "Web Development",
+    "level": "Beginner",
+    "link": "https://www.youtube.com/watch?v=a_iQb1lnAEQ",
+    "image": "https://i.ytimg.com/vi/a_iQb1lnAEQ/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "CSS Full Course for Beginners | Complete All-in-One Tutorial",
+    "type": "Video Course",
+    "platform": "freeCodeCamp.org",
+    "category": "CSS",
+    "level": "Intermediate",
+    "link": "https://www.youtube.com/watch?v=n4R2E7O-Ngo",
+    "image": "https://i.ytimg.com/vi/n4R2E7O-Ngo/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Professional Website From Scratch | HTML & CSS For Beginners",
+    "type": "Video Course",
+    "platform": "Codehal",
+    "category": "Web Development",
+    "level": "Intermediate",
+    "link": "https://www.youtube.com/watch?v=HXYZxVbWkjc",
+    "image": "https://i.ytimg.com/vi/HXYZxVbWkjc/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "HTML & CSS Full Course for free",
+    "type": "Video Course",
+    "platform": "Smoljames",
+    "category": "Web Development",
+    "level": "Advanced",
+    "link": "https://www.youtube.com/watch?v=HGTJBPNC-Gw",
+    "image": "https://i.ytimg.com/vi/HGTJBPNC-Gw/maxresdefault.jpg",
+    "isFree": true
+  }, 
+ 
+  {
+    "title": "CS50: Introduction to Computer Science",
+    "type": "Video Course",
+    "platform": "Harvard University",
+    "category": "Computer Science",
+    "level": "Beginner",
+    "link": "https://pll.harvard.edu/course/cs50-introduction-computer-science",
+    "image": "https://cs50.harvard.edu/images/cs50.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Full Stack Web Development Course",
+    "type": "Video Course",
+    "platform": "freeCodeCamp.org",
+    "category": "Web Development",
+    "level": "Beginner to Advanced",
+    "link": "https://www.youtube.com/watch?v=ZxKM3DCV2kE",
+    "image": "https://i.ytimg.com/vi/ZxKM3DCV2kE/maxresdefault.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Introduction to Cybersecurity",
+    "type": "Video Course",
+    "platform": "Codecademy",
+    "category": "Cybersecurity",
+    "level": "Beginner",
+    "link": "https://www.codecademy.com/learn/introduction-to-cybersecurity",
+    "image": "https://www.codecademy.com/resources/blog/content/images/2020/08/cybersecurity.png",
+    "isFree": true
+  },
+  {
+    "title": "Learn Python Programming Masterclass",
+    "type": "Video Course",
+    "platform": "Udemy",
+    "category": "Python",
+    "level": "Beginner to Advanced",
+    "link": "https://www.udemy.com/course/python-the-complete-python-developer-course/",
+    "image": "https://img-c.udemycdn.com/course/750x422/629302_8a2d_2.jpg",
+    "isFree": false
+  },
+  {
+    "title": "Java Programming and Software Engineering Fundamentals",
+    "type": "Video Course",
+    "platform": "Coursera",
+    "category": "Java",
+    "level": "Beginner to Intermediate",
+    "link": "https://www.coursera.org/specializations/java-programming",
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~java-programming/XDP~SPECIALIZATION!~java-programming.jpeg",
+    "isFree": true
+  },
+  {
+    "title": "The Complete JavaScript Course 2023: From Zero to Expert!",
+    "type": "Video Course",
+    "platform": "Udemy",
+    "category": "JavaScript",
+    "level": "Beginner to Advanced",
+    "link": "https://www.udemy.com/course/the-complete-javascript-course/",
+    "image": "https://img-c.udemycdn.com/course/750x422/851712_fc61_6.jpg",
+    "isFree": false
+  },
+  {
+    "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+    "type": "Video Course",
+    "platform": "Udemy",
+    "category": "React",
+    "level": "Intermediate to Advanced",
+    "link": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/",
+    "image": "https://img-c.udemycdn.com/course/750x422/1362070_b9a1_2.jpg",
+    "isFree": false
+  },
+  {
+    "title": "Flutter & Dart - The Complete Guide [2023 Edition]",
+    "type": "Video Course",
+    "platform": "Udemy",
+    "category": "Flutter",
+    "level": "Beginner to Advanced",
+    "link": "https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/",
+    "image": "https://img-c.udemycdn.com/course/750x422/1708340_7108_3.jpg",
+    "isFree": false
+  },
+  {
+    "title": "Machine Learning",
+    "type": "Video Course",
+    "platform": "Coursera",
+    "category": "Machine Learning",
+    "level": "Intermediate",
+    "link": "https://www.coursera.org/learn/machine-learning",
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~machine-learning/XDP~COURSE!~machine-learning.jpeg",
+    "isFree": true
+  },
+  {
+    "title": "Introduction to Artificial Intelligence (AI)",
+    "type": "Video Course",
+    "platform": "edX",
+    "category": "Artificial Intelligence",
+    "level": "Beginner",
+    "link": "https://www.edx.org/course/introduction-to-artificial-intelligence-ai",
+    "image": "https://prod-discovery.edx-cdn.org/media/course/image/0a5b2e6e-0c5a-4e8b-8b8b-0a5b2e6e0c5a-4e8b-8b8b-0a5b2e6e0c5a.jpg",
+    "isFree": true
+  },
+  {
+    "title": "Introduction to UI and UX Design",
+    "type": "Video Course",
+    "platform": "Codecademy",
+    "category": "UI/UX Design",
+    "level": "Beginner",
+    "link": "https://www.codecademy.com/learn/intro-to-ui-ux",
+    "image": "https://www.codecademy.com/resources/blog/content/images/2020/08/ui-ux.png",
+    "isFree": true
+  },
+  {
+    "title": "Data Science and Machine Learning Bootcamp with R",
+    "type": "Video Course",
+    "platform": "Udemy",
+    "category": "Data Science",
+    "level": "Intermediate",
+    "link": "https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/",
+    "image": "https://img-c.udemycdn.com/course/750x422/903744_8eb2.jpg",
+    "isFree": false
+  },
+  {
+    "title": "AWS Certified Solutions Architect – Associate 2023",
+    "type": "Video Course",
+    "platform": "Udemy",
+    "category": "Cloud Computing",
+    "level": "Intermediate",
+    "link": "https://www.udemy.com/course/aws-certified-solutions-architect-associate/"
+    
+
+}, 
+  {
+    "type": "video course",
+    "title": "Computer Networking Full Course",
+    "link": "https://youtube.com/qiQR5rTSshw?si=BMv35mGVhLpBHzMb",
+    "platform_or_author": "freeCodeCamp",
+    "category": "Computer Networking",
+    "free": true
+  },
+  {
+    "type": "video course",
+    "title": "Linux Full Course for Beginners",
+    "link": "https://youtube.com/ROjZy1WbCIA?si=vOJvydvWqq7hmvLM",
+    "platform_or_author": "freeCodeCamp",
+    "category": "Linux",
+    "free": true
+  },
+  {
+    "type": "video course",
+    "title": "Cybersecurity Full Course",
+    "link": "https://youtube.com/6StjJWo4Wt8?si=ynS4z8zvRhMHDTf7",
+    "platform_or_author": "Simplilearn",
+    "category": "Cybersecurity",
+    "free": true
+  },
+  {
+    "type": "video course",
+    "title": "Full Ethical Hacking Course",
+    "link": "https://youtube.com/3Kq1MIfTWCE?si=e26i_8bltGCRZOW3",
+    "platform_or_author": "freeCodeCamp",
+    "category": "Ethical Hacking",
+    "free": true
+  },
+  {
+    "type": "video course",
+    "title": "Network Security Full Course",
+    "link": "https://youtube.com/nmEx9_u5z_4?si=mb0FOODTRPBkREzm",
+    "platform_or_author": "Simplilearn",
+    "category": "Cybersecurity",
+    "free": true
+  },
+  {
+    "type": "video course",
+    "title": "Full Ethical Hacking Course - Learn Ethical Hacking in 10 Hours",
+    "link": "https://youtube.com/1Tko1G9p4JQ?si=VObL9m6Pg4FvuxWW",
+    "platform_or_author": "Simplilearn",
+    "category": "Ethical Hacking",
+    "free": true
+  },
+  {
+    "type": "video course",
+    "title": "Hacker101 Intro",
+    "link": "https://www.youtube.com/playlist?list=PLxhvVyxYRviZdGZ4G6JzJFpGHtD1FxkN6",
+    "platform_or_author": "HackerOne",
+    "category": "Bug Bounty",
+    "free": true
+  },
+  {
+    "type": "video course",
+    "title": "TryHackMe Beginner to Pro",
+    "link": "https://www.youtube.com/playlist?list=PLBf0hzazHTGOEuhPQSnq-EjCz0mB4mimF",
+    "platform_or_author": "The Cyber Mentor",
+    "category": "Cybersecurity",
+    "free": true
+  },
+  {
+    "type": "video course",
+    "title": "Intro to PHP for Beginners",
+    "link": "https://youtube.com/OXGznpKZ_sA",
+    "platform_or_author": "freeCodeCamp",
+    "category": "Web Development",
+    "free": true
+  },
+  
+  {
+    
+  }
+]
+
+
+
+

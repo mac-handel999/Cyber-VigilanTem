@@ -1,0 +1,82 @@
+.container {
+  margin: 0px;
+  padding: 5px;
+  background-image: url(IMAGES/code-img.jpg);
+  background-repeat: no-repeat;
+  background-clip: center;
+  opacity: 1.5px;
+  color: #fff;
+  font-size: 1rem;
+}
+
+.contact-icon {
+  margin: 3px;
+  padding: 3px;
+  border-radius: 50px;
+  background: transparent;
+  box-shadow: 1px 2px 1px 2px black;
+  
+}
+
+.web-dev-header {
+  text-align: center;
+  margin: 7px;
+  color:#fff;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.icons {
+  font-size: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  row-gap:10px;
+  gap: 5px;
+  column-gap: 5px;
+  text-overflow:ellipsis;
+  opacity: 1.5;
+}
+
+
+.web-dev-img {
+   box-shadow: 2px 2px 3px 3px wheat  #42445A;
+}
+
+
+
+.design-img2 {
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  
+}
+
+  .img-contact {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 3px 3px #000;
+    background: transparent;
+  }
+  
+  .contact-text {
+    padding: 2px;
+    margin: 2px;
+    text-align: center;
+  }
+  
+  .contact-btns {
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    border-radius: 20px;
+  }
+  
+  
