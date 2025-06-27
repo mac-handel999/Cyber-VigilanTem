@@ -8,7 +8,6 @@
 
 
 body {
-  font-family: "Playwrite RO", cursive;
   font-optical-sizing: auto;
   font-weight: bold;
   font-style: normal;
@@ -16,7 +15,7 @@ body {
 
 
 body {
-  font-family: "playwrite RO", cursive;
+  font-family: 'Georgia', 'Times New Roman', Times, serif, cursive;
   background: #f4f4f4;
   color: #333;
   font-weight: bold;
@@ -25,7 +24,7 @@ body {
 header {
   margin: 0px;
   padding: 20px;
-  background: #0f172a;
+  background: #282C4E;
   color: #fff;
   padding: 1rem 2rem;
   display: flex;
@@ -71,7 +70,7 @@ figure {
 .source {
   margin: 5px;
   padding: 5px;
-  color: #393B4D;
+  color: #fff;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
@@ -183,7 +182,7 @@ a {
 
 
 footer {
-  background: #0f172a;
+  background: #282C4E;
   color: #fff;
   text-align: center;
   padding: 1rem;
@@ -203,26 +202,26 @@ footer {
 #searchBtn {
   margin: px;
   padding: 5px;
-  width: 200px;
-  height: 60px;
+  width: 90px;
+  height: 50px;
   font-weight: bold;
-  font-size: 1rem;
+  font-size: 1.5rem;
   background: #0f172a ;
   color: #fff;
 border-top-left-radius: 0px;
 border-bottom-left-radius: 0px;
 border-top-right-radius: 20px;
 border-bottom-right-radius: 20px;
-  
-  box-shadow: 2px 3px 2px 3px black;
+border: 2px solid #fff;
+box-shadow: 2px 3px 2px 3px #000;
 }
 
 #search {
   margin: 0px;
   padding: 5px;
-  width: 200px;
-  height: 60px;
-  background: #0f172a;
+  width: 2000px;
+  height: 50px;
+  background: #42445A;
   color: #fff;
   border-radius: 20px;
   border-left: none;
@@ -230,7 +229,8 @@ border-bottom-right-radius: 20px;
  border-bottom-left-radius: 20px;
  border-top-right-radius: 0px;
 border-bottom-right-radius: 0px;
-  box-shadow: 3px 2px 3px 2px black;
+  box-shadow: 3px 2px 3px 2px #000;
+  border: 2px solid #fff;
 }
 
 .search-bar {
@@ -239,7 +239,7 @@ border-bottom-right-radius: 0px;
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 2px solid #fff;
+  
  
 }
 
@@ -248,7 +248,7 @@ border-bottom-right-radius: 0px;
   padding: 10px;
   text-align: center;
   color: #fff;
-  background-color:#42445A ;
+  background-color: #051934F7;;
   font-size: 1rem;
   display: flex;
   flex-wrap: wrap;
@@ -282,8 +282,8 @@ a {
 
 .backtoTop {
   position: fixed;
-  margin: 08px;
-  padding: 5px;
+  margin: 8px;
+  padding: 4px;
   left: 0px;
   right: 380px;
   bottom: 20px;
@@ -291,7 +291,8 @@ a {
   border-radius: 60px;
   width: 60px;
   height: 50px;
-  font-size: 2rem;
+  font-size: 2rem; 
+  box-shadow: 2px 3px 2px 3px black;
   background-color: #42445A;
 }
 
@@ -303,7 +304,7 @@ a {
   align-items: center;
   justify-content: space-around;
   overflow: hidden;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Georgia', 'Times New Roman', Times, serif;
   font-size: rem;
   font-weight: bold;
 }
