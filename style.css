@@ -58,6 +58,10 @@ figure {
   justify-content: center;
 }
 
+.vector-img {
+  border-radius: 60px;
+}
+
 .links {
   display: flex;
   align-items: center;
@@ -197,28 +201,35 @@ footer {
 }
 
 #searchBtn {
-  margin: 4px;
+  margin: px;
   padding: 5px;
-  width: 300px;
-  height: 78px;
+  width: 200px;
+  height: 60px;
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 1rem;
   background: #0f172a ;
   color: #fff;
-  border-radius: 20px;
-  border: 2px solid #fff;
+border-top-left-radius: 0px;
+border-bottom-left-radius: 0px;
+border-top-right-radius: 20px;
+border-bottom-right-radius: 20px;
+  
   box-shadow: 2px 3px 2px 3px black;
 }
 
 #search {
-  margin: 4px;
+  margin: 0px;
   padding: 5px;
-  width: 659px;
-  height: 78px;
+  width: 200px;
+  height: 60px;
   background: #0f172a;
   color: #fff;
   border-radius: 20px;
-  border: 2px solid #fff;
+  border-left: none;
+  border-top-left-radius: 20px;
+ border-bottom-left-radius: 20px;
+ border-top-right-radius: 0px;
+border-bottom-right-radius: 0px;
   box-shadow: 3px 2px 3px 2px black;
 }
 
@@ -228,6 +239,8 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
+  border: 2px solid #fff;
+ 
 }
 
 .road-map {
