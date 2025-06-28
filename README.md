@@ -1,88 +1,58 @@
-# CYBERSTACK
+CYBER VIGILAN-TEM
 
-**Stacked Knowledge for Tech Newbies**
+Vigilant Minds for a Secure Digital 🔮Future.
 
-Built with Love for the 
-  CYBER SECURITY Department & other Departments Of (CYB, CSC, IFT, & SOE)
-  SCHOOL OF INFORMATION AND COMMUNICATION TECHNOLOGY (SICT / ASICTS)
-  of the FEDRAL UNIVERSITY OF TECHNOLOGY OWERRI (FUTO)
+Built with dedication for the
+CYBER SECURITY Department & other Departments Of (CYB, CSC, IFT, & SOE)
+SCHOOL OF INFORMATION AND COMMUNICATION TECHNOLOGY (SICT / ASICTS)
+of the FEDERAL UNIVERSITY OF TECHNOLOGY OWERRI (FUTO).
 
-CyberStack is a simple and beginner-friendly website built with HTML, CSS, and JavaScript. 
-Its purpose is to serve as a hub for curated free and paid cybersecurity and tech learning resources for CyberSecurity Department of the FEDRAL UNIVERSITY OF TECHNOLOGY OWERRI (FUTO) to help onboard students, tech newbies, and anyone interested in the cybersecurity field.
+Cyber Vigilan-Tem is a focused and beginner-friendly website built with HTML, CSS, and JavaScript. Its purpose is to serve as a central hub for curated free and paid cybersecurity resources, specifically designed to train students, aspiring ethical hackers, and anyone passionate about digital defense and threat intelligence at the FEDERAL UNIVERSITY OF TECHNOLOGY OWERRI (FUTO).
 
----
+Features
+ * Curated links to threat intelligence reports, ethical hacking tutorials, security roadmaps, forensics blogs, and hands-on CTF challenges
+ * Categories for free and paid cybersecurity training platforms
+ * Built-in search functionality to easily find specific security domains
+ * Mobile-responsive layout for learning on the go
+ * Simple UI/UX for quick access to critical knowledge
+ * Motto: Vigilant Minds, Secure Systems
 
-## Features
+Technologies Used
+ * HTML5
+ * CSS3 (Flexbox/Grid)
+ * JavaScript (DOM manipulation).
+ 
 
-- Curated links to **video tutorials**, **articles**, **roadmaps**, **blog posts**, and **hands-on labs**
-- Categories for **free** and **paid** resources
-- Built-in **search functionality** to easily find content
-- Mobile-responsive layout
-- Simple UI/UX for quick navigation
-- Motto: *Stacked Knowledge for Tech Newbies*
-
----
-
-## Technologies Used
-
-- HTML5
-- CSS3 (Flexbox/Grid)
-- JavaScript (DOM manipulation)
-
----
-
-## How to Use
-
-1. **Clone or download** the repository
-2. Open `index.html` in your browser
-3. Use the search bar or browse categories to access resources
-4. Click any resource link to visit the original page (YouTube, TryHackMe, edX, etc.)
-
----
-
-## Resource Structure (in JavaScript)
-
+How to Use
+ * Clone or download the repository.
+ * Open index.html in your browser.
+ * Use the search bar or browse categories to find resources on topics like Malware Analysis, Network Security, etc.
+ 
+ * Click any resource link to visit the original page (Hack The Box, TryHackMe, Cybrary, etc.).
+ * 
+Resource Structure (in JavaScript Object Notation (JSON))
 Each resource is stored in an array of objects:
-```js
+
 {
-  title: "CS50 Cybersecurity",
-  type: "Video Course",
-  platform: "edX",
-  category: "Cybersecurity",
-  link: "https://cs50.harvard.edu/cybersecurity/",
-  isFree: true
+  title: "Intro to Defensive Security",
+  type: "Pathway",
+  platform: "TryHackMe",
+  category: "Blue Teaming",
+  link: "https://tryhackme.com/path/outline/defensive-security",
+  isFree: false
 }
 
-
----
-
 Hosting
-
 The site can be published for free using:
-
-GitHub Pages
-
-Vercel
-
-
-
----
+ * GitHub Pages
+ * Vercel
 
 License
-
 This project is open source and free to use.
-You can modify and contribute to help improve it for the community.
-
-
----
-
+You can modify and contribute to help improve it for the FUTO cybersecurity community.
 Logo
-
-The CyberStack logo represents layered learning and protection.
+The Cyber Vigilan-Tem logo represents constant watchfulness and robust defense in the digital realm.
 Feel free to reuse or modify it with credit.
 
-
----
-
+_______
 Happy Hacking!
- 

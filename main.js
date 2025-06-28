@@ -72,3 +72,41 @@ searchBtn.addEventListener("click", () => {
 
   displayResources(filtered);
 }); 
+
+
+//for road map images
+
+const imageShow = document.getElementById('roadmapImg');
+const btn = document.querySelector('.roadmapBtn');
+
+
+
+btn.addEventListener("click", () => {
+  
+  if (btn.innerText == "Show Roadmap Images") {
+    btn.innerText = "Hide Roadmap Images";
+    
+    imageShow.style.display = "block"
+  } else {
+    btn.innerText = "Show Roadmap Images";
+    
+    imageShow.style.display = "none";
+  }
+})
+
+//for ai chat bot
+
+const aiDiv = document.querySelector('#aiBody');
+const Btn = document.querySelector('.ai');
+
+Btn.addEventListener("click",  () => {
+  if (Btn.innerText == "AI") {
+    Btn.innerText = "ai";
+    
+    aiDiv.style.display = "inline";
+  } else {
+    Btn.innerText = "AI";
+    
+   aiDiv.style.display ="none";
+  }
+}) 

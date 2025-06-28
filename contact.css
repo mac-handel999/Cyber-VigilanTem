@@ -1,5 +1,11 @@
+*{
+  color: #fff;
+}
+
+
+
 .container {
-  margin: 0px;
+  margin: 20px;
   padding: 5px;
   background-image: url(IMAGES/code-img.jpg);
   background-repeat: no-repeat;
@@ -7,6 +13,7 @@
   opacity: 1.5px;
   color: #fff;
   font-size: 1rem;
+  box-shadow: inset 2px 3px 2px 3px wheat;
 }
 
 .contact-icon {
@@ -14,7 +21,7 @@
   padding: 3px;
   border-radius: 50px;
   background: transparent;
-  box-shadow: 1px 2px 1px 2px black;
+  box-shadow: 1px 2px 1px 2px wheat;
   
 }
 
@@ -41,7 +48,7 @@
 
 
 .web-dev-img {
-   box-shadow: 2px 2px 3px 3px wheat  #42445A;
+   box-shadow: 2px 2px 3px 3px wheat  ;
 }
 
 
@@ -60,7 +67,7 @@
     margin: 10px;
     padding: 10px;
     border-radius: 20px;
-    box-shadow: 2px 2px 3px 3px #000;
+    box-shadow: 2px 2px 3px 3px wheat;
     background: transparent;
   }
   
@@ -68,15 +75,16 @@
     padding: 2px;
     margin: 2px;
     text-align: center;
+    color:#fff;
   }
   
   .contact-btns {
     margin: 10px;
-    padding: 10px;
+    padding: 15px;
     display: flex;
     align-content: center;
     justify-content: space-between;
-    border-radius: 20px;
+    border-radius: 60px;
   }
   
   

@@ -19,6 +19,13 @@ body {
   background: #f4f4f4;
   color: #333;
   font-weight: bold;
+  background-image: url(IMAGES/cyber-vTem-logo.png );
+  background-clip: cover;
+  background-repeat: repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+  color: #fff;
+backdrop-filter: opacity(100%) blur(100px) saturate(100px);
 }
 
 header {
@@ -38,8 +45,8 @@ header {
   margin: 3px;
   padding: 3px;
   border-radius: 90px;
-  width: 90px;
-  height:90px;
+  width: 100px;
+  height: 100px;
   box-shadow: 4px 5px 4px 5px black;
   border: 2px solid #fff;
   color: #fff;
@@ -58,7 +65,13 @@ figure {
 }
 
 .vector-img {
-  border-radius: 60px;
+  border-radius: 10%;
+  border: 3px solid #000;
+  box-shadow: 2px 3px 2px 3px wheat;
+}
+
+.about-head-color {
+  color: #fff;
 }
 
 .links {
@@ -116,7 +129,15 @@ a {
 .hero {
   padding: 2rem;
   text-align: center;
-  background: #e2e8f0;
+  background-image: url( IMAGES/cyber-security-laptop.jpg);
+  background-clip: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+  color: #fff;
+backdrop-filter: opacity(100%) blur(100px) saturate(100px);
+ font-size: 1.1rem;
+ font-weight: bolder;
 }
 .hero input {
   margin-top: 1rem;
@@ -127,9 +148,9 @@ a {
 
  .marquee {
    padding: 10px;
-  color: #000;
+  color: #fff;
   border: 2px solid ;
-  box-shadow: 2px 3px 2px 3px black;
+  box-shadow: 2px 3px 2px 3px wheat;
   border-radius: 10px;
  }
 .resource-grid {
@@ -151,7 +172,7 @@ a {
   transition: 0.3s ease;
   border: 2px solid #0f172a;
   border-radius: 20px;
-  box-shadow: 2px 3px 2px 3px #000;
+  box-shadow: 2px 3px 2px 3px wheat;
   column-gap: 3px;
   row-gap: 3px;
   font-weight: bolder;
@@ -162,7 +183,7 @@ a {
   justify-content: space-around;
 }
 .resource-card:hover {
-  box-shadow: 2px 3px 2px 3px rgba(0,0,0,0.1);
+  box-shadow: 2px 3px 2px 3px #fff;
 }
 
 .view-live {
@@ -171,7 +192,7 @@ a {
   color: yellow;
   border: 2px solid #fff;
   border-radius: 10px;
-  box-shadow: 1px 2px 1px 2px black;
+  box-shadow: 1px 2px 1px 2px wheat;
 }
 
 .title-header {
@@ -213,7 +234,7 @@ border-bottom-left-radius: 0px;
 border-top-right-radius: 20px;
 border-bottom-right-radius: 20px;
 border: 2px solid #fff;
-box-shadow: 2px 3px 2px 3px #000;
+box-shadow: 2px 3px 2px 3px wheat;
 }
 
 #search {
@@ -229,7 +250,7 @@ box-shadow: 2px 3px 2px 3px #000;
  border-bottom-left-radius: 20px;
  border-top-right-radius: 0px;
 border-bottom-right-radius: 0px;
-  box-shadow: 3px 2px 3px 2px #000;
+  box-shadow: 3px 2px 3px 2px wheat;
   border: 2px solid #fff;
 }
 
@@ -244,16 +265,17 @@ border-bottom-right-radius: 0px;
 }
 
 .road-map {
-  margin: 0px;
+  margin: 20px;
   padding: 10px;
   text-align: center;
   color: #fff;
-  background-color: #051934F7;;
+  background-color: #051934F7;
   font-size: 1rem;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-evenly;
+  box-shadow:inset 2px 3px 2px 3px wheat;
 }
 
 .Road-maps {
@@ -267,6 +289,30 @@ border-bottom-right-radius: 0px;
   border: 2px solid #fff;
   border-radius: 10px;
   box-shadow: 2px 3px 2px 3px black;
+}
+
+#roadmapImg {
+  display: none;
+}
+
+.img-roadmap {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.roadmapBtn {
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  background: #436788;
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px 2px wheat;
+  width: 400px;
+  font-weight: bolder;
 }
 
 .roadmap-header {
@@ -285,16 +331,51 @@ a {
   margin: 8px;
   padding: 4px;
   left: 0px;
-  right: 380px;
-  bottom: 20px;
+  right: 395px;
+  bottom: 2px;
   z-index: 1000;
   border-radius: 60px;
-  width: 60px;
+  width: 54px;
   height: 50px;
   font-size: 2rem; 
-  box-shadow: 2px 3px 2px 3px black;
+  box-shadow: 2px 2px 2px 2px wheat;
   background-color: #42445A;
 }
+
+.ai {
+  position: fixed;
+  margin: 8px;
+  padding: 4px;
+  left: 293px;
+  right: 0px;
+  
+  bottom: 1px;
+  z-index: 1000;
+  border-radius: 60px;
+  width: 52px;
+  height: 50px;
+  font-size: 2rem; 
+  box-shadow: 2px 2px 2px 2px wheat;
+  background-color: #42445A;
+  color: #fff;
+}
+
+.ai-body {
+  position: fixed;
+  margin: 10px;
+  padding: 10px;
+  
+  
+  left: 0px;
+  right: 10px;
+  bottom: 10px;
+  z-index: 1000;
+  font-size: 2rem; 
+}
+//box-shadow: 2px 2px 2px 2px wheat;
+  //background-color: #42445A;
+
+//}
 
 .about-body {
   margin: 10px;
@@ -311,12 +392,12 @@ a {
 
 .about-head-color {
   font-size: 1rem;
-  color: #0E1564;
+  color: #fff;
 }
 
 .about-head-color2 {
   font-size: 1.9rem;
-  color: #9E0C0A;
+  color: #FF0300;
 }
 
 .star {
