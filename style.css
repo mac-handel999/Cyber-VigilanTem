@@ -315,6 +315,19 @@ border-bottom-right-radius: 0px;
   font-weight: bolder;
 }
 
+.appBtn {
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  background: #436788;
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px 2px wheat;
+  width: 250px;
+  font-weight: bolder;
+}
+
 .roadmap-header {
   font-weight: bold;
   font-size: 2rem;
@@ -372,10 +385,7 @@ a {
   z-index: 1000;
   font-size: 2rem; 
 }
-//box-shadow: 2px 2px 2px 2px wheat;
-  //background-color: #42445A;
 
-//}
 
 .about-body {
   margin: 10px;
