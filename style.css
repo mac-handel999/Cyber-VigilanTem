@@ -359,7 +359,7 @@ a {
   position: fixed;
   margin: 8px;
   padding: 4px;
-  left: 293px;
+  left: 550px;
   right: 0px;
   
   bottom: 1px;
@@ -373,6 +373,8 @@ a {
   color: #fff;
 }
 
+
+
 .ai-body {
   position: fixed;
   margin: 10px;
@@ -384,6 +386,117 @@ a {
   bottom: 10px;
   z-index: 1000;
   font-size: 2rem; 
+}
+
+#news {
+  margin: px;
+  padding: px;
+  
+}
+
+.news-container {
+  margin: 0;
+  padding: 0;
+    display: flex;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 40px;
+    width: 95%;
+    padding: 3px;
+    word-wrap: wrap;
+}
+/* .news-container {
+    /* Use flexbox for a single row */
+   /* display: flex;
+    /* Prevent wrapping to a new line */
+  /*  flex-wrap: nowrap;
+    /* Enable horizontal scrolling */
+    
+    /* Optional: Add a subtle scrollbar and space between articles */
+   /* gap: 20px;
+} */
+
+/* Ensure the articles don't shrink too much */
+.news-article {
+    flex-shrink: 1;
+    width: 300px; /* Or a fixed width */
+}
+
+
+.news-article {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    
+    width: 70%;
+    height: 50%;
+    text-wrap: nowrap;
+    text-overflow: auto;
+    
+}
+
+.article-image {
+    width: 80%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+/* Truncate the title to one or two lines */
+.news-article h1 {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2; /* Set to 2 to show up to two lines of text */
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* Truncate the description to a specific number of lines */
+.news-article p {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4; /* Adjust this number to show more or less lines */
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+.news-article h1 {
+    margin-top: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.news-article p {
+    flex-grow: 1;
+    font-size: 0.9em;
+    color: #555;
+    
+    
+}
+
+.read-more {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 15px;
+    background-color: #282C4E;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.read-more:hover {
+    background-color: #218838;
+}
+
+@media (max-width: 768px) {
+    .news-container {
+        grid-template-columns: 1fr;
+    }
 }
 
 
